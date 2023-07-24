@@ -1,6 +1,6 @@
 package models
 
-type modle struct {
+type Modle struct {
 	usename  string
 	password string
 }
